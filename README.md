@@ -47,6 +47,3 @@ For example:
   JSON file should look as follows after closing:
   {"0":{"ID":0,"Name":"Simona","Balance":800,"OverdraftLimit":500},"1":{"ID":1,"Name":"Maroš","Balance":1550,"OverdraftLimit":700},"2":{"ID":2,"Name":"Daniel","Balance":3550,"OverdraftLimit":1000}}
   ```
-
----
-This format should help you organize and present your project documentation clearly and professionally.
